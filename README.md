@@ -30,13 +30,13 @@ SmartPlanner is a minimal and interactive to-do list and day scheduling tool to 
   - 🌙 Dark Mode
 
 ### 🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript  
-Responsive Web Design (Flexbox & Media Queries)
+  - HTML5
+  - CSS3
+  - JavaScript  
+  - Responsive Web Design (Flexbox & Media Queries)
 
 ### 🚀 How to Run
-Clone this repository
-Open either index.html in the ecommerce/ or day-planner/ folder
-Use in your browser — No additional setup required!
- 
+  - Clone this repository
+  - Open either index.html in the ecommerce/ or day-planner/ folder
+  - Use in your browser — No additional setup required!
+   
