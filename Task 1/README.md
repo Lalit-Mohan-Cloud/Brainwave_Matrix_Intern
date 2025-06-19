@@ -30,4 +30,4 @@ A simple and interactive day planner web app built with HTML, CSS, and JavaScrip
  
 
 ## 📸 Screenshots
-![image alt]()
+![image alt](https://github.com/Lalit-Mohan-Cloud/Brainwave_Matrix_Intern/blob/main/Task%201/Screenshot%202025-06-19%20232901.png?raw=true)
