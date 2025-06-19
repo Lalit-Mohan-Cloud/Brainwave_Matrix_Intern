@@ -12,7 +12,7 @@ ShopSmart is a fully responsive, visually appealing e-commerce website built usi
 
 # 📸 Screenshots
 ✅ Home Page
-![image alt]()
+![image alt](https://github.com/Lalit-Mohan-Cloud/Brainwave_Matrix_Intern/blob/main/Task%202/images/Screenshot%202025-06-19%20220735.png?raw=true)
 
 ✅ Cart Page
 ![image alt]()
